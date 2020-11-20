@@ -1,4 +1,4 @@
-# San-Francisco-Neighborhood-Analysis
+# San Francisco Neighborhood Analysis
 __This project is a part of the "Capstone Project" of Coursera - "IBM Applied Data Science Capstone Course". Unfortunately, GitHub does not display maps correctly. To view them, clone my repository and run it locally. You need to have your Foursquare ID, Foursquare Secret and your key for Geocoding API.__
 
 ## Introduction
@@ -17,13 +17,13 @@ For this project we will pull the data from multiple sources:
 3. __Kaggle SF Police Incidents Dataset 2018-2019__ crime data
 4. __Foursquare__ venues data for closest stores, parks, and attractions for each neighborhood
 
-### Files Descriptions
+## Files Descriptions
 * __San_Francisco_Neighborhood_Analysis.ipynb__ includes data preparation, analysis, visualization, and machine learning models
 * __SF_Police_Department_Incident_Reports__2018_to_Present.csv__ dataset from Kaggle
 * this __README.md__
 * __LICENSE.md__
 
-### Libraries use
+## Libraries use
   * [pandas](https://github.com/pandas-dev/pandas)
   * [numpy](https://github.com/numpy/numpy)
   * [matplotlib](https://github.com/matplotlib/matplotlib)
@@ -35,7 +35,7 @@ For this project we will pull the data from multiple sources:
   * [folium](https://github.com/python-visualization/folium)
   * [json](https://www.json.org/json-en.html)
 
-### Licensind
+## Licensind
 Apache License 2.0
 
 See the LICENSE file for details
